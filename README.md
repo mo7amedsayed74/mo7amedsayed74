@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mohamed Sayed 👋:heart: </h2>
+<h2> Hi there, I'm Mohamed Sayed 👋 </h2>
 <h3 align="center">Flutter trainee from Egypt</h3>
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
